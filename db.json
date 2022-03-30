@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "email": "zxc@mail.com",
+      "password": "$2a$10$K8pciPASVk8jfLPP1o/HfuBrYhjOVsq1gHnU3CuneZtCbhE9UhwtW",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ivan",
+      "secondName": "Ivanov",
+      "phone": "+7(800)555-35-35 "
+    }
+  ]
+}
